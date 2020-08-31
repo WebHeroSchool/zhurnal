@@ -1,11 +1,10 @@
-Header {
+header {
   text-align: center;
 }
 h1 {
   text-align: center;
 }
 div {
-  font-family: Monospace; 
   font-weight: lighter;
   font-size: small
   }
